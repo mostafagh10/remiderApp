@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mostafagh10/remiderApp.git/static/css/main.fac47596.css",
+    "main.js": "/mostafagh10/remiderApp.git/static/js/main.6c127320.js",
+    "static/js/787.b0900b86.chunk.js": "/mostafagh10/remiderApp.git/static/js/787.b0900b86.chunk.js",
+    "index.html": "/mostafagh10/remiderApp.git/index.html",
+    "main.fac47596.css.map": "/mostafagh10/remiderApp.git/static/css/main.fac47596.css.map",
+    "main.6c127320.js.map": "/mostafagh10/remiderApp.git/static/js/main.6c127320.js.map",
+    "787.b0900b86.chunk.js.map": "/mostafagh10/remiderApp.git/static/js/787.b0900b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac47596.css",
+    "static/js/main.6c127320.js"
+  ]
+}
